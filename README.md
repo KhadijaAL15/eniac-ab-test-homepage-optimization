@@ -77,39 +77,26 @@ The objective was to identify which version leads to the most effective user int
 ## 📊 Results
 
 ### CTR Comparison
-
 ![CTR Comparison](images/CTR_comparison.png)
 
 - **Version C:** Highest CTR (~2.1%)  
 - **Version A:** Slightly lower (~2.0%)  
-- **Versions B & D:** Significantly lower  
-
----
+- **Versions B and D:** Significantly lower  
 
 ### Drop-Off Rate
-
 ![Drop-Off Rate](images/drop_off_rate.png)
 
-- Version A: **62% (best)**  
-- Version C: **71% (worst)**  
-
----
+- **Version A:** 62% (best)  
+- **Version C:** 71% (worst)  
 
 ### Homepage Return Rate
-
 ![Homepage Return](images/homepage_return_rate.png)
 
-- Version A: ~5.3%  
-- Version C: ~4.7%  
-
----
+- **Version A:** ~5.3%  
+- **Version C:** ~4.7%  
 
 ### Chi-Square Distribution
-
 ![Chi Square](images/Chi_square_distribution.png)
-
----
-
 ## 🔬 Statistical Findings
 
 - **p-value ≪ 0.05**  

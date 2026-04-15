@@ -152,7 +152,7 @@ Full analysis available in:
 
 All datasets are included in the repository:
 
-- `/data/raw/` → original datasets  
+- `/data/` → original datasets  
 - `/data/processed/` → cleaned and aggregated data  
 
 This ensures full reproducibility of the analysis.

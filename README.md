@@ -29,7 +29,6 @@ A-B-Testing-Eniac/
 ├── requirements.txt             # Python dependencies
 │
 └── README.md                    # Project documentation
-└── README.md                    # Project documentation
 ```
 
 ---

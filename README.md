@@ -169,7 +169,7 @@ Interactive presentation:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
 - Python (pandas, numpy, scipy)  
 - seaborn & matplotlib  

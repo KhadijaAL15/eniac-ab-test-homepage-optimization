@@ -11,6 +11,9 @@ This project analyzes an A/B test conducted on an e-commerce homepage to evaluat
 The objective was to identify which version leads to the most effective user interaction and supports potential sales performance.
 
 ---
+## 📁 Project Structure
+
+```
 A-B-Testing-Eniac/
 │
 ├── data/
@@ -26,6 +29,9 @@ A-B-Testing-Eniac/
 ├── requirements.txt             # Python dependencies
 │
 └── README.md                    # Project documentation
+└── README.md                    # Project documentation
+```
+
 ---
 
 ## 🧪 Test Setup

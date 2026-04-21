@@ -98,7 +98,7 @@ The objective was to identify which version leads to the most effective user int
 - **Version C:** ~4.7%  
 
 ### Chi-Square Distribution
-![Chi Square](images/Chi_square_distribution.png)
+![Chi Square](images/chi_square_distribution.png)
 ## 🔬 Statistical Findings
 
 - **p-value ≪ 0.05**  

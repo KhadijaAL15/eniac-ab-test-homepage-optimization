@@ -11,27 +11,6 @@ This project analyzes an A/B test conducted on an e-commerce homepage to evaluat
 The objective was to identify which version leads to the most effective user interaction and supports potential sales performance.
 
 ---
-## 📁 Project Structure
-
-```
-A-B-Testing-Eniac/
-│
-├── data/
-│   └── processed/               # Cleaned dataset used for analysis
-│
-├── images/                      # Visualizations (CTR, drop-off, etc.)
-│
-├── reports/                     # Reports and presentation material
-│   └── presentation_link.txt    # Link to Prezi presentation
-│
-├── A_B_Testing_Eniacs_Webpage.ipynb   # Main notebook (EDA, hypothesis testing, insights)
-│
-├── requirements.txt             # Python dependencies
-│
-└── README.md                    # Project documentation
-```
-
----
 
 ## 🧪 Test Setup
 
@@ -155,7 +134,29 @@ This demonstrates that **higher click rates do not necessarily indicate better p
 It provides:
 - Strong CTR performance  
 - Lowest drop-off rate  
-- More stable user engagement  
+- More stable user engagement
+
+---
+
+## 📁 Project Structure
+
+```
+A-B-Testing-Eniac/
+│
+├── data/
+│   └── processed/               # Cleaned dataset used for analysis
+│
+├── images/                      # Visualizations (CTR, drop-off, etc.)
+│
+├── reports/                     # Reports and presentation material
+│   └── presentation_link.txt    # Link to Prezi presentation
+│
+├── A_B_Testing_Eniacs_Webpage.ipynb   # Main notebook (EDA, hypothesis testing, insights)
+│
+├── requirements.txt             # Python dependencies
+│
+└── README.md                    # Project documentation
+```
 
 ---
 

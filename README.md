@@ -11,12 +11,6 @@ This project analyzes an A/B test conducted on an e-commerce homepage to evaluat
 The objective was to identify which version leads to the most effective user interaction and supports potential sales performance.
 
 ---
-eniac_ab_test_homeüage_optimization/
-├── A_B_Testing_Eniacs_Webpage.ipynb/       # analysis notebook
-├── images/          # visualizations used in the project
-├── presentation/    # presentation material (Prezi link)
-├── data/            # dataset or sample data
-├── README.md        # project documentation
 
 ---
 

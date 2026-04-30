@@ -130,7 +130,7 @@ It provides:
 - Lowest drop-off rate  
 - More stable user engagement
 
-  ---
+---
 
 ## 🚀 Key Takeaways
 
@@ -144,7 +144,6 @@ It provides:
 ## 💯 Final Note
 
 This project demonstrates how combining statistical testing with user behavior analysis leads to more reliable and meaningful business decisions.
-
 
 ---
 

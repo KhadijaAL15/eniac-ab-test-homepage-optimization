@@ -27,7 +27,9 @@ The objective was to identify which version leads to the most effective user int
 - **Version A:** White “SHOP NOW”  
 - **Version B:** Red “SHOP NOW”  
 - **Version C:** White “SEE DEALS”  
-- **Version D:** Red “SEE DEALS”  
+- **Version D:** Red “SEE DEALS”
+
+  ![Wepage_Verions](Webpage_versions.png)
 
 ---
 

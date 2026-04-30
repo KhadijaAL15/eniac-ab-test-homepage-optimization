@@ -1,10 +1,6 @@
-# eniac-ab-test-homepage-optimization
-A/B Test analysis of homepage variations using Chi-square test and behavioral metrics
-
-
 # 📊 ENIAC A/B Test – Homepage Optimization
 
-## 🔍 Project Overview
+# 🔍 Project Overview
 
 This project analyzes an A/B test conducted on an e-commerce homepage to evaluate how different design variations influence user behavior and engagement.
 
@@ -140,7 +136,7 @@ It provides:
 
 ## 📁 Project Structure
 
-```
+´´´
 A-B-Testing-Eniac/
 │
 ├── data/
@@ -148,25 +144,18 @@ A-B-Testing-Eniac/
 │
 ├── images/                      # Visualizations (CTR, drop-off, etc.)
 │
-├── reports/                     # Reports and presentation material
-│   └── presentation_link.txt    # Link to Prezi presentation
+├── notebooks/                   # Main notebook (EDA, hypothesis testing, insights)
 │
-├── A_B_Testing_Eniacs_Webpage.ipynb   # Main notebook (EDA, hypothesis testing, insights)
+├── README.md                    # Project documentation
 │
-├── requirements.txt             # Python dependencies
-│
-└── README.md                    # Project documentation
-```
+└── requirements.txt             # Python dependencies
+´´´
 
 ---
 
-## 📓 Analysis Notebook
+## 📗 Notebooks
 
-Full analysis available in:
-
-👉 `A_B_Testing_Eniacs_Webpage.ipynb`
-
-(Developed in Google Colab)
+[![Open Discount Analysis in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1onXrG7kdonZDv_nrNhRyr0P1gAl7Opv6)
 
 ---
 

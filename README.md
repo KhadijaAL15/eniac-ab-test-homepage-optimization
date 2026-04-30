@@ -6,6 +6,10 @@ This project analyzes an A/B test conducted on an e-commerce homepage to evaluat
 
 The objective was to identify which version leads to the most effective user interaction and supports potential sales performance.
 
+
+![Homepage Variations](images/Webpage_versions.png)
+
+
 ---
 
 ## 🧪 Test Setup
@@ -28,8 +32,6 @@ The objective was to identify which version leads to the most effective user int
 - **Version B:** Red “SHOP NOW”  
 - **Version C:** White “SEE DEALS”  
 - **Version D:** Red “SEE DEALS”
-
-![Homepage Variations](images/Webpage_versions.png)
 
 ---
 

@@ -21,7 +21,7 @@ The objective was to identify which version leads to the most effective user int
 
 - **Statistical Test:** Chi-square test  
 - **Significance Level:** α = 0.05 (95%)
-
+---
 ### 🖥️ Variants Tested
 
 - **Version A:** White “SHOP NOW”  

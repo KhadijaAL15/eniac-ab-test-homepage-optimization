@@ -22,9 +22,7 @@ The objective was to identify which version leads to the most effective user int
 - **Statistical Test:** Chi-square test  
 - **Significance Level:** α = 0.05 (95%)
 
----
-
-## 🖥️ Variants Tested
+### 🖥️ Variants Tested
 
 - **Version A:** White “SHOP NOW”  
 - **Version B:** Red “SHOP NOW”  
@@ -132,6 +130,22 @@ It provides:
 - Lowest drop-off rate  
 - More stable user engagement
 
+  ---
+
+## 🚀 Key Takeaways
+
+- Statistical significance alone is not sufficient for decision-making  
+- Behavioral metrics are essential to evaluate performance  
+- Poor-performing variants can heavily influence statistical results  
+- Data-driven decisions require both statistical and product thinking  
+
+---
+
+## 💯 Final Note
+
+This project demonstrates how combining statistical testing with user behavior analysis leads to more reliable and meaningful business decisions.
+
+
 ---
 
 ## 📁 Project Structure
@@ -172,9 +186,8 @@ This ensures full reproducibility of the analysis.
 
 ## 🎬 Presentation
 
-Interactive presentation:
 
-👉 https://prezi.com/p/edit/4gidyluojuil/
+👉 [View Presentation](https://prezi.com/p/4gidyluojuil/?present=1)
 
 ---
 
@@ -184,17 +197,3 @@ Interactive presentation:
 - seaborn & matplotlib  
 - Jupyter Notebook / Google Colab  
 
----
-
-## 🚀 Key Takeaways
-
-- Statistical significance alone is not sufficient for decision-making  
-- Behavioral metrics are essential to evaluate performance  
-- Poor-performing variants can heavily influence statistical results  
-- Data-driven decisions require both statistical and product thinking  
-
----
-
-## 💯 Final Note
-
-This project demonstrates how combining statistical testing with user behavior analysis leads to more reliable and meaningful business decisions.

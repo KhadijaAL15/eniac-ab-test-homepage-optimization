@@ -13,7 +13,7 @@ The objective was to identify which version leads to the most effective user int
 - **Duration:** 14 days (Nov 2 – Nov 16, 2021)
 - **~25,000 users per version**
 
-### Visitors per Version:
+### 🖥️  Visitors per Version:
 - Version A: 25,326  
 - Version B: 24,747  
 - Version C: 24,876  
@@ -21,7 +21,7 @@ The objective was to identify which version leads to the most effective user int
 
 - **Statistical Test:** Chi-square test  
 - **Significance Level:** α = 0.05 (95%)
----
+
 ### 🖥️ Variants Tested
 
 - **Version A:** White “SHOP NOW”  

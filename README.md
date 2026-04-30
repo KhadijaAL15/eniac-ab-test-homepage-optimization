@@ -29,7 +29,7 @@ The objective was to identify which version leads to the most effective user int
 - **Version C:** White “SEE DEALS”  
 - **Version D:** Red “SEE DEALS”
 
-![Wepage_Verions](Webpage_versions.png)
+![Homepage Variations](images/Webpage_versions.png)
 
 ---
 

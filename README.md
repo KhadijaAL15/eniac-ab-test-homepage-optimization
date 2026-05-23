@@ -170,7 +170,7 @@ A-B-Testing-Eniac/
 ├── README.md                   # Project documentation
 
 └── requirements.txt            # Python dependencies
-´´´
+```
 ---
 
 ## 📗 Notebooks

@@ -153,21 +153,23 @@ This project demonstrates how combining statistical testing with user behavior a
 
 ## 📁 Project Structure
 
-´´´
+```text
+
 A-B-Testing-Eniac/
-│
+
 ├── data/
-│   └── processed/                  # Cleaned datasets used for analysis
-│
-├── images/                         # Visualizations (CTR, drop-off rates, insights)
-│
+
+│   └── processed/              # Cleaned datasets used for analysis
+
+├── images/                     # Visualizations such as CTR and drop-off charts
+
 ├── notebooks/
-│   └── ab_testing_analysis.ipynb   # EDA, hypothesis testing, and insights
-│
-├── README.md                       # Project overview and documentation
-│
-└── requirements.txt                # Python dependencies
-´´´
+
+│   └── ab_testing_analysis.ipynb # Main notebook: EDA, hypothesis testing, insights
+
+├── README.md                   # Project documentation
+
+└── requirements.txt            # Python dependencies
 
 ---
 
